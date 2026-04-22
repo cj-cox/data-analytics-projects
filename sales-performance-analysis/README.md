@@ -30,17 +30,35 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-
     * 2016 Q1: -64.87%
     * 2017 Q1: -48.74%
     * 2018 Q1: -47.84%
+
+<img src="images/image_01.png" width="400" height="300" alt="Dashboard Sales Increase Exceptions">
+      
 * The West region sees the highest revenue with only one exception
   * 2016 - Top Region - East
+
+<img src="images/image_02.png" width="400" height="300" alt="East Region 2016 Sales">
+
 * The Consumer segment is by far the largest contributor to sales
+
+<img src="images/image_03.png" width="400" height="300" alt="Segment Comparison">
+
 * The Technology category, specifically phones, are the largest source of revenue
   * However, the sales of phones is extremely volatile and is only a strong seller during specific quarters
     * 2015 Q2 and Q4
     * 2016 Q3
     * 2018 Q3 and Q4
+
+<img src="images/image_04.png" width="400" height="300" alt="Phone Sales">
+
 * Key Insights
   * Marketing toward consumers in the West region will likely see a high return on investment
+
+<img src="images/image_05.png" width="400" height="300" alt="West Region Focus">
+
   * Targetting chairs along with the latest phone releases in Q3 and Q4 will help ensure profitability
+
+<img src="images/image_06.png" width="400" height="300" alt="Chairs Focus">
+
 
 ## How to Run
 * I have included a markdown file of my Jupyter Notebook detailing all code executed to prevent the need to have specific software or environments installed
