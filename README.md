@@ -1,2 +1,4 @@
-# Sales-Performance-Analysis
-Analyzing sales performance using Kaggle's Superstore dataset with Python and Tableau.
+# Data Analytics Projects
+
+Various data analysis projects completed using varying tools and levels of complexity.
+
