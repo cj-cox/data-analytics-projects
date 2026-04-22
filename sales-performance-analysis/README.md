@@ -64,4 +64,3 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-
 * I have included a markdown file of my Jupyter Notebook detailing all code executed to prevent the need to have specific software or environments installed
   * [Jupyter Notebook](sales_analysis_eda.md)
 * It is recommended to have Tableau Desktop installed for full interactive functionality of the included Tableau workbook
-  * [Tableau Workbook](tableau/sales_performance_analysis.twbx)
