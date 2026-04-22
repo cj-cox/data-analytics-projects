@@ -4,4 +4,4 @@ Various data analysis projects completed using varying tools and levels of compl
 
 | Project Name | Description | Repository Link |
 |---|---|---|
-| Sales Performance Analysis | Analyzed sales data to identify trends and insights. | [Link to Sales Performance Analysis Repo](sales-performance-analysis) |
+| Sales Performance Analysis | Analyzed sales data to identify trends and insights. | [Sales Performance Analysis Repo](sales-performance-analysis) |
