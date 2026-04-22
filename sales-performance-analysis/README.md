@@ -38,7 +38,7 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-
     * 2018 Q3 and Q4
 * Key Insights
   * Marketing toward consumers in the West region will likely see a high return on investment
-  * Targetting the latest phone releases in Q3 and Q4 will help ensure profitability
+  * Targetting chairs along with the latest phone releases in Q3 and Q4 will help ensure profitability
 
 ## How to Run
 * I have included a markdown file of my Jupyter Notebook detailing all code executed to prevent the need to have specific software or environments installed
