@@ -1,6 +1,6 @@
 # Sales Performance Analysis
 
-<img src="images/image_07.png" width="400" height="300" alt="Dashboard Preview">
+<img src="images/image_06.png" width="400" height="300" alt="Dashboard Preview">
 
 ## Objective
 Analysis performed to identify sales trends from 2015-2018.
