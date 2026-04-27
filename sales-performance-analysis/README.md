@@ -1,6 +1,6 @@
 # Sales Performance Analysis
 
-<img src="images/image_07.png" width="600" height="500" alt="Dashboard Preview">
+<img src="images/image_07.png" width="900" alt="Dashboard Preview">
 
 ## Objective
 Analysis performed to identify sales trends from 2015-2018.
@@ -31,16 +31,16 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-
     * 2017 Q1: -48.74%
     * 2018 Q1: -47.84%
 
-<img src="images/image_01.png" width="400" height="300" alt="Dashboard Sales Increase Exceptions">
+<img src="images/image_01.png" width="900" alt="Dashboard Sales Increase Exceptions">
       
 * The West region sees the highest revenue with only one exception
   * 2016 - Top Region - East
 
-<img src="images/image_02.png" width="400" height="300" alt="East Region 2016 Sales">
+<img src="images/image_02.png" width="900" alt="East Region 2016 Sales">
 
 * The Consumer segment is by far the largest contributor to sales
 
-<img src="images/image_03.png" width="400" height="300" alt="Segment Comparison">
+<img src="images/image_03.png" width="900" alt="Segment Comparison">
 
 * The Technology category, specifically phones, are the largest source of revenue
   * However, the sales of phones is extremely volatile and is only a strong seller during specific quarters
@@ -48,16 +48,16 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-
     * 2016 Q3
     * 2018 Q3 and Q4
 
-<img src="images/image_04.png" width="400" height="300" alt="Phone Sales">
+<img src="images/image_04.png" width="900" alt="Phone Sales">
 
 * Key Insights
   * Marketing toward consumers in the West region will likely see a high return on investment
 
-<img src="images/image_05.png" width="400" height="300" alt="West Region Focus">
+<img src="images/image_05.png" width="900" alt="West Region Focus">
 
   * Targetting chairs along with the latest phone releases in Q3 and Q4 will help ensure profitability
 
-<img src="images/image_06.png" width="400" height="300" alt="Chairs Focus">
+<img src="images/image_06.png" width="900" alt="Chairs Focus">
 
 
 ## How to Run
